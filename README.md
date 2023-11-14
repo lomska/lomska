@@ -9,7 +9,7 @@ I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data vis
 ![Postgres](https://img.shields.io/badge/postgres-%2300447c.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-008499?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-9a1018?style=for-the-badge&logo=Tableau&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23c2a444.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23c2a444.svg?style=for-the-badge&logo=figma&logoColor=white)         
 ![HTML5](https://img.shields.io/badge/html5-%239a1018.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%2300447c.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23008499.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
