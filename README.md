@@ -8,6 +8,7 @@ I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data vis
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23c2a444.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%2300447c.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-008499?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-00447c?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%239a1018.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-c2a444?style=for-the-badge&logo=inkscape&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%239a1018.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,4 +24,3 @@ I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data vis
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-lomskaya/)
 [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lomskaya@gmail.com)
 [![Twitter](https://img.shields.io/badge/@ta______kaya-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ta___kaya/)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-0f1e3d?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/lomska)
