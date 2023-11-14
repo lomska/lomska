@@ -2,11 +2,6 @@
 
 I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data visualization.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-lomskaya/)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-0f1e3d?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/lomska)
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lomskaya@gmail.com)
-[![Twitter](https://img.shields.io/badge/@ta______kaya-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ta___kaya/)
-
 ### Languages and Tools 
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) 
@@ -22,3 +17,10 @@ I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data vis
 ![Heroku](https://img.shields.io/badge/heroku-%23c2a444.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%239a1018.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+
+### How you can reach me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-lomskaya/)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lomskaya@gmail.com)
+[![Twitter](https://img.shields.io/badge/@ta______kaya-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ta___kaya/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-0f1e3d?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/lomska)
