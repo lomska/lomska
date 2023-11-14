@@ -3,7 +3,7 @@
 I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data visualization.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-lomskaya/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ta___kaya/)
+[![Twitter](https://img.shields.io/badge/@ta______kaya-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ta___kaya/)
 
 ### Languages and Tools 
 
