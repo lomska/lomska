@@ -2,7 +2,7 @@
 
 I'm Tanya Lomskaya, a self-taught data analyst with a great passion for data visualization.
 
-### Languages and tools I use 
+### Languages and tools
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23c2a444.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
