@@ -1,8 +1,6 @@
 ### Hello there, 👋
 
-and welcome to my page! I'm Tanya and I am passionate about data analysis, storytelling, visualization and design. Data visualization is a particular love of mine, and I draw my vizzes either in Tableau (:boom:[see my Tableau Public page](https://public.tableau.com/app/profile/lomska):boom:) or using Python, and then create applications for them using Dash and Bootstrap (for example, [like this](https://alcotradenets2022-d1f5de444d2b.herokuapp.com/) or [like this](https://my30daychartchallenge2023.herokuapp.com/)). Often I mix the two and use code to create visual effects in Tableau.
-
-Before that, I worked in business media for eight years, writing about economics and finance and leading open data projects.
+and welcome to my page! I'm Tanya and I am passionate about data analysis, storytelling, visualization and design. Data visualization is a particular love of mine, and I draw my vizzes either in Tableau (:boom:[see my Tableau Public page](https://public.tableau.com/app/profile/lomska):boom:) or using Python (and then I create applications for them using Dash and Bootstrap, for example [like this](https://alcotradenets2022-d1f5de444d2b.herokuapp.com/) or [like this](https://my30daychartchallenge2023.herokuapp.com/)), or I mix these two tools.
 
 ### Languages and tools
 
