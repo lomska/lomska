@@ -18,9 +18,8 @@ My repos here are all about <b>Python</b> and <b>SQL</b>; would be happy to take
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23008499.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=black&color=black&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23c2a444.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%2300447c.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/git-%2300447c.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
-![Git](https://img.shields.io/badge/git-%239a1018.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### How you can reach me
 
