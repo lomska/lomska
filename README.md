@@ -1,6 +1,6 @@
 ### Hello there, 👋
 
-and welcome to my page! I'm Tanya and I am passionate about data analysis, storytelling, visualization and design. Data visualization is a particular love of mine, and I draw my vizzes either in Tableau (:boom:[see my Tableau Public page](https://public.tableau.com/app/profile/lomska):boom:) or using Python (and then I create applications for them using Dash and Bootstrap, for example [like this](https://alcotradenets2022-d1f5de444d2b.herokuapp.com/) or [like this](https://my30daychartchallenge2023.herokuapp.com/)), or I mix these two tools. 
+and welcome to my page! I'm Tanya and I am passionate about <b>data analysis</b>, <b>storytelling</b>, <b>visualization</b> and <b>design</b>. Data visualization is a particular love of mine, and I draw my vizzes either in Tableau (:boom:[see my Tableau Public page](https://public.tableau.com/app/profile/lomska):boom:) or using Python (and then I create applications for them using Dash and Bootstrap, for example [like this](https://alcotradenets2022-d1f5de444d2b.herokuapp.com/) or [like this](https://my30daychartchallenge2023.herokuapp.com/)), or I mix these two tools. 
 
 My repos here are all about <b>Python</b> and <b>SQL</b>; would be happy to take part in projects with this stack.
 
