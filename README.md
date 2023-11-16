@@ -23,6 +23,6 @@ My repos here are all about <b>Python</b> and <b>SQL</b>; would be happy to take
 
 ### How you can reach me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-lomskaya/)
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lomskaya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2300447c.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-lomskaya/)
+[![Gmail](https://img.shields.io/badge/Gmail-9a1018?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lomskaya@gmail.com)
 [![Twitter](https://img.shields.io/badge/@ta______kaya-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ta___kaya/)
