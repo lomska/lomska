@@ -1,6 +1,6 @@
 ### Hello there, 
 
-and welcome to my page! I'm Tanya and I am passionate about <b>data analysis</b>, <b>storytelling</b>, and <b>visualization</b>. Data visualization is a particular love of mine, and I draw my vizzes either in Tableau ([see my Tableau Public page](https://public.tableau.com/app/profile/lomska)) or in Python, or I mix these two tools. 
+and welcome to my page! I'm Tanya and I am passionate about <b>data analysis</b>, <b>storytelling</b>, and <b>visualization</b>. Data visualization is a particular love of mine, and I create vizzes either in Tableau ([see my Tableau Public page](https://public.tableau.com/app/profile/lomska)) or in Python, or I mix these two tools. 
 
 My repos here are all about <b>Python</b> and <b>SQL</b>.
 
