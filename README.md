@@ -18,7 +18,3 @@ and welcome to my page! I'm Tanya and I am passionate about <b>data analysis</b>
 ![Heroku](https://img.shields.io/badge/heroku-%23c2a444.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%2300447c.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
-
-### How you can reach me
-
-[LinkedIn](https://www.linkedin.com/in/tanya-lomskaya/) :black_small_square: [Gmail](mailto:lomskaya@gmail.com) :black_small_square: [Twitter](https://twitter.com/ta___kaya/)
